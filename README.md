@@ -17,6 +17,12 @@ This package contains **6 Streamlit starter apps**, one for each Week 09 exercis
 
 Create a `.env` file in the project root or set environment variables:
 
+cp env.sample .env
+
+vi .env
+
+Add new values:
+
 - `OPENAI_API_KEY`
 - `OPENAI_MODEL` (optional, default: `gpt-4.1-mini`)
 
