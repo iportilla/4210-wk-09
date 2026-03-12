@@ -15,6 +15,17 @@ This package contains **6 Streamlit starter apps**, one for each Week 09 exercis
 
 ## Setup
 
+clone repo locally with:
+
+```bash
+git clone https://github.com/iportilla/4210-wk-09.git
+```
+
+Change directories
+
+```bash
+cd 4210-wk-09
+```
 Create a `.env` file in the project root or set environment variables:
 
 ```bash
